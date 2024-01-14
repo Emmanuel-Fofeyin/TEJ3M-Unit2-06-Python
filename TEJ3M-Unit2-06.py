@@ -1,6 +1,6 @@
-# Copyright(c) 2023 Evgeny Vovk All rights reserved.
-# Created by : Evgeny Vovk
-# Created on : March 2023
+# Copyright(c) 2023 Emmanuel Fofeyin All rights reserved.
+# Created by : Emmanuel Fofeyin Vovk
+# Created on : Jam 2024
 # TEJ3M-Unit2-06.py File.
 
 import time
